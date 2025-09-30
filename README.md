@@ -1,4 +1,4 @@
-# Cssd-1161-w4-ex1-Teniola
+# Cssd1161-w4-ex1-Teniola
 exercise 1 
 my name is teniola yusuf 
 I'm Nigerian-canadian
